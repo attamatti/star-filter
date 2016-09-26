@@ -42,7 +42,7 @@ class Arg(object):
         self.flag = flag
         self.value = value
         self.req = req
-errmsg = '''USAGE: rln-star-filter.py --i <gCTF starfile>
+errmsg = '''USAGE: rln-star-filter.py --i <starfile>
 optional flags:
 --about     print the license and contact information'''
 
