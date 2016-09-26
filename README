@@ -9,4 +9,6 @@ usage:
 
 or run with the --about flag for license and contact information
 
-enjoy!
+
+Requires numpy and matplotlib to run. 
+Enjoy!
