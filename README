@@ -1,0 +1,12 @@
+Filters a relion starfile on any column that contains numerical values.
+It can do high pass (throw away low values), low pass (throw away high values) or both
+
+
+
+usage:
+
+./rln-star-filter --i <starfile>
+
+or run with the --about flag for license and contact information
+
+enjoy!
